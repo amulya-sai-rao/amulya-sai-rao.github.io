@@ -1,7 +1,12 @@
+h1 {
+  display: flex;
+  justify-content: center;
+}
 
 table, th, td {
     border: 1px solid black;
-  }
-  th, td {
+}
+
+th, td {
     background-color:  #E6E6FA;
-  }
+}
