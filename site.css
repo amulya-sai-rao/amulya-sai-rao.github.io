@@ -1,9 +1,7 @@
-h2 {
-    color: blue;
-}
+
 table, th, td {
     border: 1px solid black;
   }
   th, td {
-    background-color:  pink;
+    background-color:  rgb(192, 255, 230);
   }
