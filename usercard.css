@@ -16,5 +16,10 @@
 
 .cardbody{
     padding: 2px 16px;
+
+}
+
+.designation{
+    font-style:italic;
     
 }
