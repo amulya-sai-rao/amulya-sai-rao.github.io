@@ -7,7 +7,7 @@ let yuvrajoldinfo = {
 let yuvrajnewinfo = {
     imgurl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsHOTw0LvRC6fJhL4sgm1aQy-VfUdy0muM3zDfCcQpyg&usqp=CAU&ec=48665698",
     name: "Yuvraj Singh",
-    description: "Man of the Series - World Cup 2011"
+    description: "Player of the Series - World Cup 2011"
 }
 
 let isyuvrajold = true;
