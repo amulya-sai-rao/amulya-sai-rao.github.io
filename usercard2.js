@@ -1,6 +1,6 @@
 let yuvrajoldinfo = {
     imgurl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZY2wsI1h1dx-PBlDXI8YFDy_zezFsKeJvlB9VYF3EE7IYsJ9ukoi9JqqGznj7Fq_YxrTxufiwVqE&usqp=CAU&ec=48665698",
-    name: "Yuraj Singh",
+    name: "Yuvraj Singh",
     description: "Indian Cricketer"
 } 
 
